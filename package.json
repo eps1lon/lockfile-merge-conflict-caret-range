@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "react": "^19.0.0-rc-cc1ec60d0d-20240607"
+    "react": "^19.0.0-rc-a532d91d01-20240610"
   }
 }
