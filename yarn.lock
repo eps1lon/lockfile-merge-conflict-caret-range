@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-react@^19.0.0-rc-cc1ec60d0d-20240607:
-  version "19.0.0-rc-cc1ec60d0d-20240607"
-  resolved "https://registry.yarnpkg.com/react/-/react-19.0.0-rc-cc1ec60d0d-20240607.tgz#887ef55baa5de87d62a1743b1a4ec2ba447bd3c1"
-  integrity sha512-q8A0/IdJ2wdHsjDNO1igFcSSFIMqSKmO7oJZtAjxIA9g0klK45Lxt15NQJ7z7cBvgD1r3xRTtQ/MAqnmwYHs1Q==
+react@^19.0.0-rc-20b6f4c0e8-20240607:
+  version "19.0.0-rc-20b6f4c0e8-20240607"
+  resolved "https://registry.yarnpkg.com/react/-/react-19.0.0-rc-20b6f4c0e8-20240607.tgz#03688a9f0385e84ad8a7331544829b43884fe021"
+  integrity sha512-1eTIYVwwwD43XOIXCGiOkHO1s6+DIKXfptplhZO0p0Fmr7qcVWz2wQj9icyb50H+vANWnT17EEOL/9xgFHbGEg==
