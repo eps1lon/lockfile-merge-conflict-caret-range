@@ -1,0 +1,9 @@
+{
+  "name": "lockfile-merge-conflict-caret-range",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0-rc-cc1ec60d0d-20240607"
+  }
+}
